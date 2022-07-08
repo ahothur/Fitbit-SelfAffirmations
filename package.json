@@ -7,7 +7,7 @@
     "appType": "app",
     "appDisplayName": "Self Affirmations",
     "iconFile": "resources/icon.png",
-    "wipeColor": "#9c27b0",
+    "wipeColor": "#03a9f4",
     "requestedPermissions": [
       "access_sleep"
     ],

@@ -1,7 +1,7 @@
 <svg>
   <image href="background.jpg" />
   
-   <textarea id="quote" x="20" width="100%-30" text-anchor="middle" font-family="Seville-Italic" fill="black" font-size="25" display-align="center">
+   <textarea id="quote" x="20" width="100%-30" text-anchor="middle" font-family="Seville-Italic" fill="black" font-size="30" display-align="center">
      Lorem ipsum dolor sit amet, blhah bcuehn iwhh wdojdnk cjo bcuwei cowehwh cowhecowe
   </textarea>
   
