@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "3f9bf110-d8f7-4dd5-ba1c-9aead247e486",
+    "appType": "app",
+    "appDisplayName": "Self Affirmations",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#9c27b0",
+    "requestedPermissions": [
+      "access_sleep"
+    ],
+    "buildTargets": [
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Self Affirmations"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
